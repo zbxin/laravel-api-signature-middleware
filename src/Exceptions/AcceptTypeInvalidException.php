@@ -1,8 +1,8 @@
 <?php
 
-namespace ZhiEq\ApiSignature\Exceptions;
+namespace Zbxin\ApiSignature\Exceptions;
 
-use ZhiEq\Contracts\Exception;
+use Zbxin\Contracts\Exception;
 
 class AcceptTypeInvalidException extends Exception
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace ZhiEq\ApiSignature\GuzzleMiddleware;
+namespace Zbxin\ApiSignature\GuzzleMiddleware;
 
 use Carbon\Carbon;
 use function GuzzleHttp\Psr7\parse_query;
